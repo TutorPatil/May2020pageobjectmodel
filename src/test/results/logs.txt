@@ -1,0 +1,1199 @@
+2020-05-02 13:02:38 INFO  ************* ************* This method will be executed in the begining**************
+2020-05-02 13:02:38 INFO  *************  Inisde the storeLocatorData Method
+2020-05-02 13:02:39 INFO  *************  Inisde the storeTestData Method
+2020-05-02 13:02:39 INFO  *************  Beore Test....This method will run before every testngxml test
+2020-05-02 13:02:39 INFO  *************  Beore Class....This method will run before every class
+2020-05-02 13:02:39 INFO  ************* Before Method....Inside before Method
+2020-05-02 13:02:53 INFO  *************  The test case by name login_001 is getting executed....
+2020-05-02 13:02:57 INFO  *************  The test case by name login_001 is Failed
+2020-05-02 13:02:57 ERROR ************* [org.testng.Assert.fail(Assert.java:94)
+ org.testng.Assert.failNotEquals(Assert.java:496)
+ org.testng.Assert.assertFalse(Assert.java:63)
+ com.selenium.tests.Login.login_001(Login.java:61)
+ sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+ sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+ java.lang.reflect.Method.invoke(Method.java:498)
+ org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+ org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+ org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+ org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+ org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+ org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+ org.testng.TestRunner.privateRun(TestRunner.java:774)
+ org.testng.TestRunner.run(TestRunner.java:624)
+ org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+ org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+ org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+ org.testng.SuiteRunner.run(SuiteRunner.java:261)
+ org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+ org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+ org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+ org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+ org.testng.TestNG.run(TestNG.java:1048)
+ org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+ org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+ org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)]
+2020-05-02 13:02:57 INFO  ************* After Method....Inside After Method
+2020-05-02 13:02:58 INFO  ************* Before Method....Inside before Method
+2020-05-02 13:03:09 INFO  *************  The test case by name login_002 is getting executed....
+2020-05-02 13:03:10 INFO  *************  The test case by name login_002 is Passed
+2020-05-02 13:03:10 INFO  ************* After Method....Inside After Method
+2020-05-02 13:03:10 INFO  *************  After Class....This method will run after every class
+2020-05-02 13:03:10 INFO  *************  After Test....This method will run after every testngxml test
+2020-05-02 13:03:10 INFO  ************* ************* This method will be executed at the end **************
+2020-05-02 13:07:40 INFO  ************* ************* This method will be executed in the begining**************
+2020-05-02 13:07:40 INFO  *************  Inisde the storeLocatorData Method
+2020-05-02 13:07:42 INFO  *************  Inisde the storeTestData Method
+2020-05-02 13:07:42 INFO  *************  Beore Test....This method will run before every testngxml test
+2020-05-02 13:07:42 INFO  *************  Beore Class....This method will run before every class
+2020-05-02 13:07:42 INFO  ************* Before Method....Inside before Method
+2020-05-02 13:07:56 INFO  *************  The test case by name login_001 is getting executed....
+2020-05-02 13:07:59 INFO  *************  The test case by name login_001 is Failed
+2020-05-02 13:08:00 ERROR ************* [org.testng.Assert.fail(Assert.java:94)
+ org.testng.Assert.failNotEquals(Assert.java:496)
+ org.testng.Assert.assertFalse(Assert.java:63)
+ com.selenium.tests.Login.login_001(Login.java:61)
+ sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+ sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+ java.lang.reflect.Method.invoke(Method.java:498)
+ org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+ org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+ org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+ org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+ org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+ org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+ org.testng.TestRunner.privateRun(TestRunner.java:774)
+ org.testng.TestRunner.run(TestRunner.java:624)
+ org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+ org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+ org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+ org.testng.SuiteRunner.run(SuiteRunner.java:261)
+ org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+ org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+ org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+ org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+ org.testng.TestNG.run(TestNG.java:1048)
+ org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+ org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+ org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)]
+2020-05-02 13:08:00 INFO  ************* After Method....Inside After Method
+2020-05-02 13:08:00 INFO  ************* Before Method....Inside before Method
+2020-05-02 13:08:11 INFO  *************  The test case by name login_002 is getting executed....
+2020-05-02 13:08:13 INFO  *************  The test case by name login_002 is Passed
+2020-05-02 13:08:13 INFO  ************* After Method....Inside After Method
+2020-05-02 13:08:13 INFO  *************  After Class....This method will run after every class
+2020-05-02 13:08:13 INFO  *************  After Test....This method will run after every testngxml test
+2020-05-02 13:08:13 INFO  ************* ************* This method will be executed at the end **************
+2020-05-02 13:16:30 INFO  *************  Beore Test....This method will run before every testngxml test
+2020-05-02 13:16:30 INFO  *************  Beore Class....This method will run before every class
+2020-05-02 13:16:30 INFO  ************* Before Method....Inside before Method
+2020-05-02 13:16:54 INFO  ************* After Method....Inside After Method
+2020-05-02 13:16:54 INFO  *************  After Class....This method will run after every class
+2020-05-02 13:16:54 INFO  *************  After Test....This method will run after every testngxml test
+2020-05-02 13:17:24 INFO  *************  Beore Test....This method will run before every testngxml test
+2020-05-02 13:17:24 INFO  *************  Beore Class....This method will run before every class
+2020-05-02 13:17:24 INFO  ************* Before Method....Inside before Method
+2020-05-02 13:17:54 INFO  ************* After Method....Inside After Method
+2020-05-02 13:17:59 INFO  *************  After Class....This method will run after every class
+2020-05-02 13:17:59 INFO  *************  After Test....This method will run after every testngxml test
+2020-05-02 13:26:43 INFO  *************  Beore Test....This method will run before every testngxml test
+2020-05-02 13:26:43 INFO  *************  Beore Class....This method will run before every class
+2020-05-02 13:26:43 INFO  ************* Before Method....Inside before Method
+2020-05-02 13:27:23 INFO  ************* After Method....Inside After Method
+2020-05-02 13:27:24 INFO  *************  After Class....This method will run after every class
+2020-05-02 13:27:24 INFO  *************  After Test....This method will run after every testngxml test
+2020-05-02 13:28:51 INFO  *************  Beore Test....This method will run before every testngxml test
+2020-05-02 13:28:51 INFO  *************  Beore Class....This method will run before every class
+2020-05-02 13:28:51 INFO  ************* Before Method....Inside before Method
+2020-05-02 13:29:37 INFO  ************* After Method....Inside After Method
+2020-05-02 13:29:37 INFO  *************  After Class....This method will run after every class
+2020-05-02 13:29:37 INFO  *************  After Test....This method will run after every testngxml test
+2020-05-02 22:13:25 INFO  ************* ************* This method will be executed in the begining**************
+2020-05-02 22:13:25 INFO  *************  Inisde the storeLocatorData Method
+2020-05-02 22:13:26 INFO  *************  Inisde the storeTestData Method
+2020-05-02 22:13:26 INFO  *************  Beore Test....This method will run before every testngxml test
+2020-05-02 22:13:26 INFO  *************  Beore Class....This method will run before every class
+2020-05-02 22:13:26 INFO  ************* Before Method....Inside before Method
+2020-05-02 22:13:40 INFO  *************  The test case by name login_001 is getting executed....
+2020-05-02 22:13:40 INFO  ************* Got all the test data for login...now trying to login
+2020-05-02 22:13:45 INFO  *************  The test case by name login_001 is Failed
+2020-05-02 22:13:45 ERROR ************* [org.testng.Assert.fail(Assert.java:94)
+ org.testng.Assert.failNotEquals(Assert.java:496)
+ org.testng.Assert.assertFalse(Assert.java:63)
+ com.selenium.tests.Login.login_001(Login.java:93)
+ sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+ sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+ java.lang.reflect.Method.invoke(Method.java:498)
+ org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+ org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+ org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+ org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+ org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+ org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+ org.testng.TestRunner.privateRun(TestRunner.java:774)
+ org.testng.TestRunner.run(TestRunner.java:624)
+ org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+ org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+ org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+ org.testng.SuiteRunner.run(SuiteRunner.java:261)
+ org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+ org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+ org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+ org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+ org.testng.TestNG.run(TestNG.java:1048)
+ org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+ org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+ org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)]
+2020-05-02 22:13:45 INFO  ************* After Method....Inside After Method
+2020-05-02 22:13:46 INFO  ************* Before Method....Inside before Method
+2020-05-02 22:13:56 INFO  *************  The test case by name login_002 is getting executed....
+2020-05-02 22:13:57 INFO  *************  The test case by name login_002 is Passed
+2020-05-02 22:13:57 INFO  ************* After Method....Inside After Method
+2020-05-02 22:13:57 INFO  ************* Before Method....Inside before Method
+2020-05-02 22:14:07 INFO  *************  The test case by name scrollUsingJavaScript is getting executed....
+2020-05-02 22:14:35 INFO  *************  The test case by name scrollUsingJavaScript is Passed
+2020-05-02 22:14:35 INFO  ************* After Method....Inside After Method
+2020-05-02 22:14:35 INFO  *************  After Class....This method will run after every class
+2020-05-02 22:14:35 INFO  *************  After Test....This method will run after every testngxml test
+2020-05-02 22:14:35 INFO  ************* ************* This method will be executed at the end **************
+2020-05-02 22:18:24 INFO  ************* ************* This method will be executed in the begining**************
+2020-05-02 22:19:04 INFO  *************  Inisde the storeLocatorData Method
+2020-05-02 22:19:04 INFO  *************  Beore Test....This method will run before every testngxml test
+2020-05-02 22:19:04 INFO  ************* Before Method....Inside before Method
+2020-05-02 22:19:05 INFO  ************* ************* This method will be executed at the end **************
+2020-05-02 22:19:56 INFO  ************* ************* This method will be executed in the begining**************
+2020-05-02 22:19:56 INFO  *************  Inisde the storeLocatorData Method
+2020-05-02 22:19:57 INFO  *************  Inisde the storeTestData Method
+2020-05-02 22:19:57 INFO  *************  Beore Test....This method will run before every testngxml test
+2020-05-02 22:19:57 INFO  *************  Beore Class....This method will run before every class
+2020-05-02 22:19:57 INFO  ************* Before Method....Inside before Method
+2020-05-02 22:20:10 INFO  *************  The test case by name login_001 is getting executed....
+2020-05-02 22:20:10 INFO  ************* Got all the test data for login...now trying to login
+2020-05-02 22:20:13 INFO  *************  The test case by name login_001 is Failed
+2020-05-02 22:20:13 ERROR ************* [org.testng.Assert.fail(Assert.java:94)
+ org.testng.Assert.failNotEquals(Assert.java:496)
+ org.testng.Assert.assertFalse(Assert.java:63)
+ com.selenium.tests.Login.login_001(Login.java:93)
+ sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+ sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+ java.lang.reflect.Method.invoke(Method.java:498)
+ org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+ org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+ org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+ org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+ org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+ org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+ org.testng.TestRunner.privateRun(TestRunner.java:774)
+ org.testng.TestRunner.run(TestRunner.java:624)
+ org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+ org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+ org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+ org.testng.SuiteRunner.run(SuiteRunner.java:261)
+ org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+ org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+ org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+ org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+ org.testng.TestNG.run(TestNG.java:1048)
+ org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+ org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+ org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)]
+2020-05-02 22:20:13 INFO  ************* After Method....Inside After Method
+2020-05-02 22:20:13 INFO  ************* Before Method....Inside before Method
+2020-05-02 22:20:24 INFO  *************  The test case by name login_002 is getting executed....
+2020-05-02 22:20:25 INFO  *************  The test case by name login_002 is Passed
+2020-05-02 22:20:25 INFO  ************* After Method....Inside After Method
+2020-05-02 22:20:25 INFO  *************  After Class....This method will run after every class
+2020-05-02 22:20:25 INFO  *************  After Test....This method will run after every testngxml test
+2020-05-02 22:20:25 INFO  ************* ************* This method will be executed at the end **************
+2020-05-03 10:37:16 INFO  ************* ************* This method will be executed in the begining**************
+2020-05-03 10:37:16 INFO  *************  Inisde the storeLocatorData Method
+2020-05-03 10:37:17 INFO  *************  Inisde the storeTestData Method
+2020-05-03 10:37:17 INFO  *************  Beore Test....This method will run before every testngxml test
+2020-05-03 10:37:17 INFO  *************  Beore Class....This method will run before every class
+2020-05-03 10:37:17 INFO  ************* Before Method....Inside before Method
+2020-05-03 10:37:38 INFO  *************  The test case by name login_001 is getting executed....
+2020-05-03 10:37:38 INFO  ************* Got all the test data for login...now trying to login
+2020-05-03 10:37:49 INFO  *************  The test case by name login_001 is Failed
+2020-05-03 10:37:50 ERROR ************* [org.testng.Assert.fail(Assert.java:94)
+ org.testng.Assert.failNotEquals(Assert.java:496)
+ org.testng.Assert.assertFalse(Assert.java:63)
+ com.selenium.tests.Login.login_001(Login.java:38)
+ sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+ sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+ java.lang.reflect.Method.invoke(Method.java:498)
+ org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+ org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+ org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+ org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+ org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+ org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+ org.testng.TestRunner.privateRun(TestRunner.java:774)
+ org.testng.TestRunner.run(TestRunner.java:624)
+ org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+ org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+ org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+ org.testng.SuiteRunner.run(SuiteRunner.java:261)
+ org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+ org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+ org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+ org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+ org.testng.TestNG.run(TestNG.java:1048)
+ org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+ org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+ org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)]
+2020-05-03 10:37:50 INFO  ************* After Method....Inside After Method
+2020-05-03 10:37:50 INFO  ************* Before Method....Inside before Method
+2020-05-03 10:38:01 INFO  *************  The test case by name login_002 is getting executed....
+2020-05-03 10:38:04 INFO  *************  The test case by name login_002 is Passed
+2020-05-03 10:38:04 INFO  ************* After Method....Inside After Method
+2020-05-03 10:38:04 INFO  *************  After Class....This method will run after every class
+2020-05-03 10:38:04 INFO  *************  After Test....This method will run after every testngxml test
+2020-05-03 10:38:04 INFO  ************* ************* This method will be executed at the end **************
+2020-05-03 11:18:45 INFO  ************* ************* This method will be executed in the begining**************
+2020-05-03 11:18:45 INFO  *************  Inisde the storeLocatorData Method
+2020-05-03 11:18:46 INFO  *************  Inisde the storeTestData Method
+2020-05-03 11:18:47 INFO  *************  Beore Test....This method will run before every testngxml test
+2020-05-03 11:18:47 INFO  *************  Beore Class....This method will run before every class
+2020-05-03 11:18:47 INFO  ************* Before Method....Inside before Method
+2020-05-03 11:19:00 INFO  *************  The test case by name login_001 is Failed
+2020-05-03 11:19:01 ERROR ************* [com.selenium.base.BaseClass.onTestStart(BaseClass.java:277)
+ org.testng.internal.Invoker.runTestListeners(Invoker.java:1695)
+ org.testng.internal.Invoker.runTestListeners(Invoker.java:1670)
+ org.testng.internal.Invoker.invokeMethod(Invoker.java:615)
+ org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+ org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+ org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+ org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+ org.testng.TestRunner.privateRun(TestRunner.java:774)
+ org.testng.TestRunner.run(TestRunner.java:624)
+ org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+ org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+ org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+ org.testng.SuiteRunner.run(SuiteRunner.java:261)
+ org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+ org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+ org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+ org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+ org.testng.TestNG.run(TestNG.java:1048)
+ org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+ org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+ org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)]
+2020-05-03 11:19:01 INFO  ************* After Method....Inside After Method
+2020-05-03 11:19:05 INFO  ************* Before Method....Inside before Method
+2020-05-03 11:19:16 INFO  *************  The test case by name login_002 is Failed
+2020-05-03 11:19:17 ERROR ************* [com.selenium.base.BaseClass.onTestStart(BaseClass.java:277)
+ org.testng.internal.Invoker.runTestListeners(Invoker.java:1695)
+ org.testng.internal.Invoker.runTestListeners(Invoker.java:1670)
+ org.testng.internal.Invoker.invokeMethod(Invoker.java:615)
+ org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+ org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+ org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+ org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+ org.testng.TestRunner.privateRun(TestRunner.java:774)
+ org.testng.TestRunner.run(TestRunner.java:624)
+ org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+ org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+ org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+ org.testng.SuiteRunner.run(SuiteRunner.java:261)
+ org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+ org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+ org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+ org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+ org.testng.TestNG.run(TestNG.java:1048)
+ org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+ org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+ org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)]
+2020-05-03 11:19:17 INFO  ************* After Method....Inside After Method
+2020-05-03 11:19:17 INFO  *************  After Class....This method will run after every class
+2020-05-03 11:19:17 INFO  *************  After Test....This method will run after every testngxml test
+2020-05-03 11:20:19 INFO  ************* ************* This method will be executed in the begining**************
+2020-05-03 11:20:19 INFO  *************  Inisde the storeLocatorData Method
+2020-05-03 11:20:21 INFO  *************  Inisde the storeTestData Method
+2020-05-03 11:20:21 INFO  *************  Beore Test....This method will run before every testngxml test
+2020-05-03 11:20:21 INFO  *************  Beore Class....This method will run before every class
+2020-05-03 11:20:21 INFO  ************* Before Method....Inside before Method
+2020-05-03 11:20:34 INFO  *************  The test case by name login_001 is Failed
+2020-05-03 11:20:35 ERROR ************* [com.selenium.base.BaseClass.onTestStart(BaseClass.java:277)
+ org.testng.internal.Invoker.runTestListeners(Invoker.java:1695)
+ org.testng.internal.Invoker.runTestListeners(Invoker.java:1670)
+ org.testng.internal.Invoker.invokeMethod(Invoker.java:615)
+ org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+ org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+ org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+ org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+ org.testng.TestRunner.privateRun(TestRunner.java:774)
+ org.testng.TestRunner.run(TestRunner.java:624)
+ org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+ org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+ org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+ org.testng.SuiteRunner.run(SuiteRunner.java:261)
+ org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+ org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+ org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+ org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+ org.testng.TestNG.run(TestNG.java:1048)
+ org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+ org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+ org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)]
+2020-05-03 11:20:35 INFO  ************* After Method....Inside After Method
+2020-05-03 11:20:35 INFO  ************* Before Method....Inside before Method
+2020-05-03 11:20:46 INFO  *************  The test case by name login_002 is Failed
+2020-05-03 11:20:46 ERROR ************* [com.selenium.base.BaseClass.onTestStart(BaseClass.java:277)
+ org.testng.internal.Invoker.runTestListeners(Invoker.java:1695)
+ org.testng.internal.Invoker.runTestListeners(Invoker.java:1670)
+ org.testng.internal.Invoker.invokeMethod(Invoker.java:615)
+ org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+ org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+ org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+ org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+ org.testng.TestRunner.privateRun(TestRunner.java:774)
+ org.testng.TestRunner.run(TestRunner.java:624)
+ org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+ org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+ org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+ org.testng.SuiteRunner.run(SuiteRunner.java:261)
+ org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+ org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+ org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+ org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+ org.testng.TestNG.run(TestNG.java:1048)
+ org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+ org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+ org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)]
+2020-05-03 11:20:46 INFO  ************* After Method....Inside After Method
+2020-05-03 11:20:47 INFO  *************  After Class....This method will run after every class
+2020-05-03 11:20:47 INFO  *************  After Test....This method will run after every testngxml test
+2020-05-03 11:20:47 INFO  ************* ************* This method will be executed at the end **************
+2020-05-03 11:22:08 INFO  ************* ************* This method will be executed in the begining**************
+2020-05-03 11:22:08 INFO  *************  Inisde the storeLocatorData Method
+2020-05-03 11:22:10 INFO  *************  Inisde the storeTestData Method
+2020-05-03 11:22:10 INFO  *************  Beore Test....This method will run before every testngxml test
+2020-05-03 11:22:10 INFO  *************  Beore Class....This method will run before every class
+2020-05-03 11:22:10 INFO  ************* Before Method....Inside before Method
+2020-05-03 11:22:24 INFO  *************  The test case by name login_001 is Failed
+2020-05-03 11:22:24 ERROR ************* [com.selenium.base.BaseClass.onTestStart(BaseClass.java:278)
+ org.testng.internal.Invoker.runTestListeners(Invoker.java:1695)
+ org.testng.internal.Invoker.runTestListeners(Invoker.java:1670)
+ org.testng.internal.Invoker.invokeMethod(Invoker.java:615)
+ org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+ org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+ org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+ org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+ org.testng.TestRunner.privateRun(TestRunner.java:774)
+ org.testng.TestRunner.run(TestRunner.java:624)
+ org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+ org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+ org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+ org.testng.SuiteRunner.run(SuiteRunner.java:261)
+ org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+ org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+ org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+ org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+ org.testng.TestNG.run(TestNG.java:1048)
+ org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+ org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+ org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)]
+2020-05-03 11:22:24 INFO  ************* After Method....Inside After Method
+2020-05-03 11:22:24 INFO  ************* Before Method....Inside before Method
+2020-05-03 11:22:33 INFO  *************  The test case by name login_002 is Failed
+2020-05-03 11:22:34 ERROR ************* [com.selenium.base.BaseClass.onTestStart(BaseClass.java:278)
+ org.testng.internal.Invoker.runTestListeners(Invoker.java:1695)
+ org.testng.internal.Invoker.runTestListeners(Invoker.java:1670)
+ org.testng.internal.Invoker.invokeMethod(Invoker.java:615)
+ org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+ org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+ org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+ org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+ org.testng.TestRunner.privateRun(TestRunner.java:774)
+ org.testng.TestRunner.run(TestRunner.java:624)
+ org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+ org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+ org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+ org.testng.SuiteRunner.run(SuiteRunner.java:261)
+ org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+ org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+ org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+ org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+ org.testng.TestNG.run(TestNG.java:1048)
+ org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+ org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+ org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)]
+2020-05-03 11:22:34 INFO  ************* After Method....Inside After Method
+2020-05-03 11:22:34 INFO  *************  After Class....This method will run after every class
+2020-05-03 11:22:34 INFO  *************  After Test....This method will run after every testngxml test
+2020-05-03 11:22:35 INFO  ************* ************* This method will be executed at the end **************
+2020-05-03 11:26:09 INFO  ************* ************* This method will be executed in the begining**************
+2020-05-03 11:26:09 INFO  *************  Inisde the storeLocatorData Method
+2020-05-03 11:26:10 INFO  *************  Inisde the storeTestData Method
+2020-05-03 11:26:10 INFO  *************  Beore Test....This method will run before every testngxml test
+2020-05-03 11:26:10 INFO  *************  Beore Class....This method will run before every class
+2020-05-03 11:26:10 INFO  ************* Before Method....Inside before Method
+2020-05-03 11:26:23 INFO  *************  The test case by name login_001 is Failed
+2020-05-03 11:26:23 ERROR ************* [com.selenium.base.BaseClass.onTestStart(BaseClass.java:277)
+ org.testng.internal.Invoker.runTestListeners(Invoker.java:1695)
+ org.testng.internal.Invoker.runTestListeners(Invoker.java:1670)
+ org.testng.internal.Invoker.invokeMethod(Invoker.java:615)
+ org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+ org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+ org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+ org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+ org.testng.TestRunner.privateRun(TestRunner.java:774)
+ org.testng.TestRunner.run(TestRunner.java:624)
+ org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+ org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+ org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+ org.testng.SuiteRunner.run(SuiteRunner.java:261)
+ org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+ org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+ org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+ org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+ org.testng.TestNG.run(TestNG.java:1048)
+ org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:293)
+ org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:84)
+ org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:91)
+ org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:200)
+ org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+ org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)]
+2020-05-03 11:26:23 INFO  ************* After Method....Inside After Method
+2020-05-03 11:26:24 INFO  ************* Before Method....Inside before Method
+2020-05-03 11:26:34 INFO  *************  The test case by name login_002 is Failed
+2020-05-03 11:26:35 ERROR ************* [com.selenium.base.BaseClass.onTestStart(BaseClass.java:277)
+ org.testng.internal.Invoker.runTestListeners(Invoker.java:1695)
+ org.testng.internal.Invoker.runTestListeners(Invoker.java:1670)
+ org.testng.internal.Invoker.invokeMethod(Invoker.java:615)
+ org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+ org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+ org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+ org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+ org.testng.TestRunner.privateRun(TestRunner.java:774)
+ org.testng.TestRunner.run(TestRunner.java:624)
+ org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+ org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+ org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+ org.testng.SuiteRunner.run(SuiteRunner.java:261)
+ org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+ org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+ org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+ org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+ org.testng.TestNG.run(TestNG.java:1048)
+ org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:293)
+ org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:84)
+ org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:91)
+ org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:200)
+ org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+ org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)]
+2020-05-03 11:26:35 INFO  ************* After Method....Inside After Method
+2020-05-03 11:26:35 INFO  *************  After Class....This method will run after every class
+2020-05-03 11:26:35 INFO  *************  After Test....This method will run after every testngxml test
+2020-05-03 11:26:35 INFO  ************* ************* This method will be executed at the end **************
+2020-05-03 11:28:20 INFO  ************* ************* This method will be executed in the begining**************
+2020-05-03 11:28:34 INFO  *************  Inisde the storeLocatorData Method
+2020-05-03 11:28:49 INFO  *************  Inisde the storeTestData Method
+2020-05-03 11:29:17 INFO  *************  Beore Test....This method will run before every testngxml test
+2020-05-03 11:29:22 INFO  *************  Beore Class....This method will run before every class
+2020-05-03 11:29:22 INFO  ************* Before Method....Inside before Method
+2020-05-03 11:29:47 INFO  *************  The test case by name login_001 is Failed
+2020-05-03 11:29:49 ERROR ************* [com.selenium.base.BaseClass.onTestStart(BaseClass.java:277)
+ org.testng.internal.Invoker.runTestListeners(Invoker.java:1695)
+ org.testng.internal.Invoker.runTestListeners(Invoker.java:1670)
+ org.testng.internal.Invoker.invokeMethod(Invoker.java:615)
+ org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+ org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+ org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+ org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+ org.testng.TestRunner.privateRun(TestRunner.java:774)
+ org.testng.TestRunner.run(TestRunner.java:624)
+ org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+ org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+ org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+ org.testng.SuiteRunner.run(SuiteRunner.java:261)
+ org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+ org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+ org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+ org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+ org.testng.TestNG.run(TestNG.java:1048)
+ org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+ org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+ org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)]
+2020-05-03 11:29:49 INFO  ************* After Method....Inside After Method
+2020-05-03 11:29:50 INFO  ************* Before Method....Inside before Method
+2020-05-03 11:30:01 INFO  *************  The test case by name login_002 is Failed
+2020-05-03 11:30:03 ERROR ************* [com.selenium.base.BaseClass.onTestStart(BaseClass.java:277)
+ org.testng.internal.Invoker.runTestListeners(Invoker.java:1695)
+ org.testng.internal.Invoker.runTestListeners(Invoker.java:1670)
+ org.testng.internal.Invoker.invokeMethod(Invoker.java:615)
+ org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+ org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+ org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+ org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+ org.testng.TestRunner.privateRun(TestRunner.java:774)
+ org.testng.TestRunner.run(TestRunner.java:624)
+ org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+ org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+ org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+ org.testng.SuiteRunner.run(SuiteRunner.java:261)
+ org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+ org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+ org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+ org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+ org.testng.TestNG.run(TestNG.java:1048)
+ org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+ org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+ org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)]
+2020-05-03 11:30:03 INFO  ************* After Method....Inside After Method
+2020-05-03 11:30:03 INFO  *************  After Class....This method will run after every class
+2020-05-03 11:32:09 INFO  ************* ************* This method will be executed in the begining**************
+2020-05-03 11:32:09 INFO  *************  Inisde the storeLocatorData Method
+2020-05-03 11:32:11 INFO  *************  Inisde the storeTestData Method
+2020-05-03 11:32:11 INFO  *************  Beore Test....This method will run before every testngxml test
+2020-05-03 11:32:11 INFO  *************  Beore Class....This method will run before every class
+2020-05-03 11:32:11 INFO  ************* Before Method....Inside before Method
+2020-05-03 11:32:25 INFO  *************  The test case by name login_001 is Failed
+2020-05-03 11:32:26 ERROR ************* [com.selenium.base.BaseClass.onTestStart(BaseClass.java:277)
+ org.testng.internal.Invoker.runTestListeners(Invoker.java:1695)
+ org.testng.internal.Invoker.runTestListeners(Invoker.java:1670)
+ org.testng.internal.Invoker.invokeMethod(Invoker.java:615)
+ org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+ org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+ org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+ org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+ org.testng.TestRunner.privateRun(TestRunner.java:774)
+ org.testng.TestRunner.run(TestRunner.java:624)
+ org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+ org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+ org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+ org.testng.SuiteRunner.run(SuiteRunner.java:261)
+ org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+ org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+ org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+ org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+ org.testng.TestNG.run(TestNG.java:1048)
+ org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+ org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+ org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)]
+2020-05-03 11:32:26 INFO  ************* After Method....Inside After Method
+2020-05-03 11:32:26 INFO  ************* Before Method....Inside before Method
+2020-05-03 11:32:37 INFO  *************  The test case by name login_002 is Failed
+2020-05-03 11:32:37 ERROR ************* [com.selenium.base.BaseClass.onTestStart(BaseClass.java:277)
+ org.testng.internal.Invoker.runTestListeners(Invoker.java:1695)
+ org.testng.internal.Invoker.runTestListeners(Invoker.java:1670)
+ org.testng.internal.Invoker.invokeMethod(Invoker.java:615)
+ org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+ org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+ org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+ org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+ org.testng.TestRunner.privateRun(TestRunner.java:774)
+ org.testng.TestRunner.run(TestRunner.java:624)
+ org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+ org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+ org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+ org.testng.SuiteRunner.run(SuiteRunner.java:261)
+ org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+ org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+ org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+ org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+ org.testng.TestNG.run(TestNG.java:1048)
+ org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+ org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+ org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)]
+2020-05-03 11:32:37 INFO  ************* After Method....Inside After Method
+2020-05-03 11:32:38 INFO  *************  After Class....This method will run after every class
+2020-05-03 11:32:38 INFO  *************  After Test....This method will run after every testngxml test
+2020-05-03 11:32:38 INFO  ************* ************* This method will be executed at the end **************
+2020-05-03 11:33:31 INFO  *************  Beore Test....This method will run before every testngxml test
+2020-05-03 11:33:31 INFO  ************* Before Method....Inside before Method
+2020-05-03 11:33:31 INFO  ************* After Method....Inside After Method
+2020-05-03 11:36:04 INFO  *************  Beore Test....This method will run before every testngxml test
+2020-05-03 11:36:04 INFO  ************* Before Method....Inside before Method
+2020-05-03 11:36:04 INFO  ************* After Method....Inside After Method
+2020-05-03 11:37:03 INFO  ************* Before Method....Inside before Method
+2020-05-03 11:37:03 INFO  ************* After Method....Inside After Method
+2020-05-03 11:40:43 INFO  ************* ************* This method will be executed in the begining**************
+2020-05-03 11:40:43 INFO  *************  Inisde the storeLocatorData Method
+2020-05-03 11:40:44 INFO  *************  Inisde the storeTestData Method
+2020-05-03 11:40:44 INFO  *************  Beore Test....This method will run before every testngxml test
+2020-05-03 11:40:44 INFO  *************  Beore Class....This method will run before every class
+2020-05-03 11:40:44 INFO  ************* Before Method....Inside before Method
+2020-05-03 11:40:57 INFO  *************  The test case by name login_001 is Failed
+2020-05-03 11:40:57 ERROR ************* [com.selenium.base.BaseClass.onTestStart(BaseClass.java:277)
+ org.testng.internal.Invoker.runTestListeners(Invoker.java:1695)
+ org.testng.internal.Invoker.runTestListeners(Invoker.java:1670)
+ org.testng.internal.Invoker.invokeMethod(Invoker.java:615)
+ org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+ org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+ org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+ org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+ org.testng.TestRunner.privateRun(TestRunner.java:774)
+ org.testng.TestRunner.run(TestRunner.java:624)
+ org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+ org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+ org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+ org.testng.SuiteRunner.run(SuiteRunner.java:261)
+ org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+ org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+ org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+ org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+ org.testng.TestNG.run(TestNG.java:1048)
+ org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+ org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+ org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)]
+2020-05-03 11:40:57 INFO  ************* After Method....Inside After Method
+2020-05-03 11:40:57 INFO  *************  After Class....This method will run after every class
+2020-05-03 11:40:57 INFO  *************  After Test....This method will run after every testngxml test
+2020-05-03 11:40:57 INFO  ************* ************* This method will be executed at the end **************
+2020-05-03 11:43:46 INFO  ************* ************* This method will be executed in the begining**************
+2020-05-03 11:43:46 INFO  *************  Inisde the storeLocatorData Method
+2020-05-03 11:43:47 INFO  *************  Inisde the storeTestData Method
+2020-05-03 11:43:47 INFO  *************  Beore Test....This method will run before every testngxml test
+2020-05-03 11:43:47 INFO  *************  Beore Class....This method will run before every class
+2020-05-03 11:43:47 INFO  ************* Before Method....Inside before Method
+2020-05-03 11:43:59 INFO  *************  The test case by name login_001 is getting executed....
+2020-05-03 11:43:59 INFO  ************* Got all the test data for login...now trying to login
+2020-05-03 11:44:02 INFO  *************  The test case by name login_001 is Failed
+2020-05-03 11:44:03 ERROR ************* [org.testng.Assert.fail(Assert.java:94)
+ org.testng.Assert.failNotEquals(Assert.java:496)
+ org.testng.Assert.assertFalse(Assert.java:63)
+ com.selenium.tests.Login.login_001(Login.java:38)
+ sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+ sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+ java.lang.reflect.Method.invoke(Method.java:498)
+ org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+ org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+ org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+ org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+ org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+ org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+ org.testng.TestRunner.privateRun(TestRunner.java:774)
+ org.testng.TestRunner.run(TestRunner.java:624)
+ org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+ org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+ org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+ org.testng.SuiteRunner.run(SuiteRunner.java:261)
+ org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+ org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+ org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+ org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+ org.testng.TestNG.run(TestNG.java:1048)
+ org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+ org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+ org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)]
+2020-05-03 11:44:03 INFO  ************* After Method....Inside After Method
+2020-05-03 11:44:07 INFO  *************  After Class....This method will run after every class
+2020-05-03 11:44:07 INFO  *************  After Test....This method will run after every testngxml test
+2020-05-03 11:44:07 INFO  ************* ************* This method will be executed at the end **************
+2020-05-03 11:52:23 INFO  ************* ************* This method will be executed in the begining**************
+2020-05-03 11:52:23 INFO  *************  Inisde the storeLocatorData Method
+2020-05-03 11:52:24 INFO  *************  Inisde the storeTestData Method
+2020-05-03 11:52:24 INFO  *************  Beore Test....This method will run before every testngxml test
+2020-05-03 11:52:24 INFO  *************  Beore Class....This method will run before every class
+2020-05-03 11:52:24 INFO  ************* Before Method....Inside before Method
+2020-05-03 11:52:38 INFO  *************  The test case by name login_001 is getting executed....
+2020-05-03 11:52:38 INFO  ************* Got all the test data for login...now trying to login
+2020-05-03 11:52:41 INFO  *************  The test case by name login_001 is Passed
+2020-05-03 11:52:41 INFO  ************* After Method....Inside After Method
+2020-05-03 11:52:41 INFO  *************  After Class....This method will run after every class
+2020-05-03 11:52:41 INFO  *************  After Test....This method will run after every testngxml test
+2020-05-03 11:52:41 INFO  ************* ************* This method will be executed at the end **************
+2020-05-03 11:53:10 INFO  ************* ************* This method will be executed in the begining**************
+2020-05-03 11:53:10 INFO  *************  Inisde the storeLocatorData Method
+2020-05-03 11:53:12 INFO  *************  Inisde the storeTestData Method
+2020-05-03 11:53:12 INFO  *************  Beore Test....This method will run before every testngxml test
+2020-05-03 11:53:12 INFO  *************  Beore Class....This method will run before every class
+2020-05-03 11:53:12 INFO  ************* Before Method....Inside before Method
+2020-05-03 11:53:25 INFO  *************  The test case by name login_001 is getting executed....
+2020-05-03 11:53:25 INFO  ************* Got all the test data for login...now trying to login
+2020-05-03 11:53:28 INFO  *************  The test case by name login_001 is Failed
+2020-05-03 11:53:29 ERROR ************* [org.testng.Assert.fail(Assert.java:94)
+ org.testng.Assert.failNotEquals(Assert.java:496)
+ org.testng.Assert.assertFalse(Assert.java:63)
+ com.selenium.tests.Login.login_001(Login.java:38)
+ sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+ sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+ java.lang.reflect.Method.invoke(Method.java:498)
+ org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+ org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+ org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+ org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+ org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+ org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+ org.testng.TestRunner.privateRun(TestRunner.java:774)
+ org.testng.TestRunner.run(TestRunner.java:624)
+ org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+ org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+ org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+ org.testng.SuiteRunner.run(SuiteRunner.java:261)
+ org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+ org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+ org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+ org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+ org.testng.TestNG.run(TestNG.java:1048)
+ org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+ org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+ org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)]
+2020-05-03 11:53:29 INFO  ************* After Method....Inside After Method
+2020-05-03 11:53:33 INFO  ************* Before Method....Inside before Method
+2020-05-03 11:53:44 INFO  *************  The test case by name login_002 is getting executed....
+2020-05-03 11:53:45 INFO  *************  The test case by name login_002 is Passed
+2020-05-03 11:53:45 INFO  ************* After Method....Inside After Method
+2020-05-03 11:53:49 INFO  *************  After Class....This method will run after every class
+2020-05-03 11:53:49 INFO  *************  After Test....This method will run after every testngxml test
+2020-05-03 11:53:49 INFO  ************* ************* This method will be executed at the end **************
+2020-05-03 12:00:54 INFO  ************* ************* This method will be executed in the begining**************
+2020-05-03 12:00:54 INFO  *************  Inisde the storeLocatorData Method
+2020-05-03 12:00:56 INFO  *************  Inisde the storeTestData Method
+2020-05-03 12:00:56 INFO  *************  Beore Test....This method will run before every testngxml test
+2020-05-03 12:00:56 INFO  *************  Beore Class....This method will run before every class
+2020-05-03 12:00:56 INFO  ************* Before Method....Inside before Method
+2020-05-03 12:01:10 INFO  *************  The test case by name login_001 is getting executed....
+2020-05-03 12:01:10 INFO  ************* Got all the test data for login...now trying to login
+2020-05-03 12:01:13 INFO  *************  The test case by name login_001 is Failed
+2020-05-03 12:01:13 ERROR ************* [org.testng.Assert.fail(Assert.java:94)
+ org.testng.Assert.failNotEquals(Assert.java:496)
+ org.testng.Assert.assertFalse(Assert.java:63)
+ com.selenium.tests.Login.login_001(Login.java:38)
+ sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+ sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+ java.lang.reflect.Method.invoke(Method.java:498)
+ org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+ org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+ org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+ org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+ org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+ org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+ org.testng.TestRunner.privateRun(TestRunner.java:774)
+ org.testng.TestRunner.run(TestRunner.java:624)
+ org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+ org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+ org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+ org.testng.SuiteRunner.run(SuiteRunner.java:261)
+ org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+ org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+ org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+ org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+ org.testng.TestNG.run(TestNG.java:1048)
+ org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+ org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+ org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)]
+2020-05-03 12:01:13 INFO  ************* After Method....Inside After Method
+2020-05-03 12:01:13 INFO  ************* Before Method....Inside before Method
+2020-05-03 12:01:24 INFO  *************  The test case by name login_002 is getting executed....
+2020-05-03 12:01:25 INFO  *************  The test case by name login_002 is Passed
+2020-05-03 12:01:25 INFO  ************* After Method....Inside After Method
+2020-05-03 12:01:25 INFO  *************  After Class....This method will run after every class
+2020-05-03 12:01:25 INFO  *************  After Test....This method will run after every testngxml test
+2020-05-03 12:01:25 INFO  ************* ************* This method will be executed at the end **************
+2020-05-03 12:03:33 INFO  ************* ************* This method will be executed in the begining**************
+2020-05-03 12:03:33 INFO  *************  Inisde the storeLocatorData Method
+2020-05-03 12:03:35 INFO  *************  Inisde the storeTestData Method
+2020-05-03 12:03:35 INFO  *************  Beore Test....This method will run before every testngxml test
+2020-05-03 12:03:35 INFO  *************  Beore Class....This method will run before every class
+2020-05-03 12:03:35 INFO  ************* Before Method....Inside before Method
+2020-05-03 12:03:49 INFO  *************  The test case by name login_001 is getting executed....
+2020-05-03 12:03:49 INFO  ************* Got all the test data for login...now trying to login
+2020-05-03 12:03:53 INFO  *************  The test case by name login_001 is Failed
+2020-05-03 12:03:54 ERROR ************* [org.testng.Assert.fail(Assert.java:94)
+ org.testng.Assert.failNotEquals(Assert.java:496)
+ org.testng.Assert.assertFalse(Assert.java:63)
+ com.selenium.tests.Login.login_001(Login.java:38)
+ sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+ sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+ java.lang.reflect.Method.invoke(Method.java:498)
+ org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+ org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+ org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+ org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+ org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+ org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+ org.testng.TestRunner.privateRun(TestRunner.java:774)
+ org.testng.TestRunner.run(TestRunner.java:624)
+ org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+ org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+ org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+ org.testng.SuiteRunner.run(SuiteRunner.java:261)
+ org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+ org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+ org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+ org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+ org.testng.TestNG.run(TestNG.java:1048)
+ org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+ org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+ org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)]
+2020-05-03 12:03:54 INFO  ************* After Method....Inside After Method
+2020-05-03 12:03:54 INFO  ************* Before Method....Inside before Method
+2020-05-03 12:04:05 INFO  *************  The test case by name login_002 is getting executed....
+2020-05-03 12:04:06 INFO  *************  The test case by name login_002 is Passed
+2020-05-03 12:04:06 INFO  ************* After Method....Inside After Method
+2020-05-03 12:04:07 INFO  *************  After Class....This method will run after every class
+2020-05-03 12:04:07 INFO  *************  After Test....This method will run after every testngxml test
+2020-05-03 12:04:07 INFO  ************* ************* This method will be executed at the end **************
+2020-05-03 12:09:52 INFO  ************* ************* This method will be executed in the begining**************
+2020-05-03 12:09:52 INFO  *************  Inisde the storeLocatorData Method
+2020-05-03 12:09:53 INFO  *************  Inisde the storeTestData Method
+2020-05-03 12:09:54 INFO  *************  Beore Test....This method will run before every testngxml test
+2020-05-03 12:09:54 INFO  *************  Beore Class....This method will run before every class
+2020-05-03 12:09:54 INFO  ************* Before Method....Inside before Method
+2020-05-03 12:10:09 INFO  *************  The test case by name login_001 is getting executed....
+2020-05-03 12:10:09 INFO  ************* Got all the test data for login...now trying to login
+2020-05-03 12:10:13 INFO  *************  The test case by name login_001 is Failed
+2020-05-03 12:10:13 ERROR ************* [org.testng.Assert.fail(Assert.java:94)
+ org.testng.Assert.failNotEquals(Assert.java:496)
+ org.testng.Assert.assertFalse(Assert.java:63)
+ com.selenium.tests.Login.login_001(Login.java:38)
+ sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+ sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+ java.lang.reflect.Method.invoke(Method.java:498)
+ org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+ org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+ org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+ org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+ org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+ org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+ org.testng.TestRunner.privateRun(TestRunner.java:774)
+ org.testng.TestRunner.run(TestRunner.java:624)
+ org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+ org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+ org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+ org.testng.SuiteRunner.run(SuiteRunner.java:261)
+ org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+ org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+ org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+ org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+ org.testng.TestNG.run(TestNG.java:1048)
+ org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+ org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+ org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)]
+2020-05-03 12:10:13 INFO  ************* After Method....Inside After Method
+2020-05-03 12:10:14 INFO  ************* Before Method....Inside before Method
+2020-05-03 12:10:24 INFO  *************  The test case by name login_002 is getting executed....
+2020-05-03 12:10:26 INFO  *************  The test case by name login_002 is Passed
+2020-05-03 12:10:26 INFO  ************* After Method....Inside After Method
+2020-05-03 12:10:30 INFO  *************  After Class....This method will run after every class
+2020-05-03 12:10:30 INFO  *************  After Test....This method will run after every testngxml test
+2020-05-03 12:10:30 INFO  ************* ************* This method will be executed at the end **************
+2020-05-03 12:38:06 INFO  ************* ************* This method will be executed in the begining**************
+2020-05-03 12:38:06 INFO  *************  Inisde the storeLocatorData Method
+2020-05-03 12:38:08 INFO  *************  Inisde the storeTestData Method
+2020-05-03 12:38:08 INFO  *************  Beore Test....This method will run before every testngxml test
+2020-05-03 12:38:08 INFO  *************  Beore Class....This method will run before every class
+2020-05-03 12:38:08 INFO  ************* Before Method....Inside before Method
+2020-05-03 12:38:24 INFO  *************  The test case by name login_001 is getting executed....
+2020-05-03 12:38:24 INFO  ************* Got all the test data for login...now trying to login
+2020-05-03 12:39:59 INFO  *************  Beore Test....This method will run before every testngxml test
+2020-05-03 12:39:59 INFO  ************* Before Method....Inside before Method
+2020-05-03 12:39:59 INFO  ************* After Method....Inside After Method
+2020-05-03 12:40:21 INFO  ************* ************* This method will be executed in the begining**************
+2020-05-03 12:40:21 INFO  *************  Inisde the storeLocatorData Method
+2020-05-03 12:40:22 INFO  *************  Inisde the storeTestData Method
+2020-05-03 12:40:22 INFO  *************  Beore Test....This method will run before every testngxml test
+2020-05-03 12:40:22 INFO  *************  Beore Class....This method will run before every class
+2020-05-03 12:40:22 INFO  ************* Before Method....Inside before Method
+2020-05-03 12:40:36 INFO  *************  The test case by name login_001 is getting executed....
+2020-05-03 12:40:36 INFO  ************* Got all the test data for login...now trying to login
+2020-05-03 12:40:53 INFO  *************  The test case by name login_001 is Failed
+2020-05-03 12:40:54 ERROR ************* [sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+ sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+ sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+ java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+ org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+ org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+ org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+ org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+ org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+ org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+ org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+ org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+ org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+ org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+ com.selenium.tests.Login.login_001(Login.java:54)
+ sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+ sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+ java.lang.reflect.Method.invoke(Method.java:498)
+ org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+ org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+ org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+ org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+ org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+ org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+ org.testng.TestRunner.privateRun(TestRunner.java:774)
+ org.testng.TestRunner.run(TestRunner.java:624)
+ org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+ org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+ org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+ org.testng.SuiteRunner.run(SuiteRunner.java:261)
+ org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+ org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+ org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+ org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+ org.testng.TestNG.run(TestNG.java:1048)
+ org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+ org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+ org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)]
+2020-05-03 12:40:54 INFO  ************* After Method....Inside After Method
+2020-05-03 12:40:54 INFO  *************  After Class....This method will run after every class
+2020-05-03 12:40:54 INFO  *************  After Test....This method will run after every testngxml test
+2020-05-03 12:40:54 INFO  ************* ************* This method will be executed at the end **************
+2020-05-03 12:41:55 INFO  ************* ************* This method will be executed in the begining**************
+2020-05-03 12:41:55 INFO  *************  Inisde the storeLocatorData Method
+2020-05-03 12:41:56 INFO  *************  Inisde the storeTestData Method
+2020-05-03 12:41:56 INFO  *************  Beore Test....This method will run before every testngxml test
+2020-05-03 12:41:56 INFO  *************  Beore Class....This method will run before every class
+2020-05-03 12:41:56 INFO  ************* Before Method....Inside before Method
+2020-05-03 12:42:11 INFO  *************  The test case by name login_001 is getting executed....
+2020-05-03 12:42:11 INFO  ************* Got all the test data for login...now trying to login
+2020-05-03 12:42:27 INFO  *************  The test case by name login_001 is Failed
+2020-05-03 12:42:28 ERROR ************* [sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+ sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+ sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+ java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+ org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+ org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+ org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+ org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+ org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+ org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+ org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+ org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+ org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+ org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+ com.selenium.tests.Login.login_001(Login.java:54)
+ sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+ sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+ java.lang.reflect.Method.invoke(Method.java:498)
+ org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+ org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+ org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+ org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+ org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+ org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+ org.testng.TestRunner.privateRun(TestRunner.java:774)
+ org.testng.TestRunner.run(TestRunner.java:624)
+ org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+ org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+ org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+ org.testng.SuiteRunner.run(SuiteRunner.java:261)
+ org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+ org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+ org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+ org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+ org.testng.TestNG.run(TestNG.java:1048)
+ org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+ org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+ org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)]
+2020-05-03 12:42:28 INFO  ************* After Method....Inside After Method
+2020-05-03 12:42:28 INFO  *************  After Class....This method will run after every class
+2020-05-03 12:42:28 INFO  *************  After Test....This method will run after every testngxml test
+2020-05-03 12:42:28 INFO  ************* ************* This method will be executed at the end **************
+2020-05-03 12:42:58 INFO  ************* ************* This method will be executed in the begining**************
+2020-05-03 12:42:58 INFO  *************  Inisde the storeLocatorData Method
+2020-05-03 12:42:59 INFO  *************  Inisde the storeTestData Method
+2020-05-03 12:42:59 INFO  *************  Beore Test....This method will run before every testngxml test
+2020-05-03 12:42:59 INFO  *************  Beore Class....This method will run before every class
+2020-05-03 12:42:59 INFO  ************* Before Method....Inside before Method
+2020-05-03 12:43:14 INFO  *************  The test case by name login_001 is getting executed....
+2020-05-03 12:43:14 INFO  ************* Got all the test data for login...now trying to login
+2020-05-03 12:43:19 INFO  ************* Got all the test data for login...now trying to login
+2020-05-03 12:43:23 INFO  ************* Got all the test data for login...now trying to login
+2020-05-03 12:43:39 INFO  *************  The test case by name login_001 is Failed
+2020-05-03 12:43:39 ERROR ************* [sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+ sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+ sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+ java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+ org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+ org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+ org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+ org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+ org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+ org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+ org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+ org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+ org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+ org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+ com.selenium.tests.Login.login_001(Login.java:54)
+ sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+ sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+ java.lang.reflect.Method.invoke(Method.java:498)
+ org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+ org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+ org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+ org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+ org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+ org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+ org.testng.TestRunner.privateRun(TestRunner.java:774)
+ org.testng.TestRunner.run(TestRunner.java:624)
+ org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+ org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+ org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+ org.testng.SuiteRunner.run(SuiteRunner.java:261)
+ org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+ org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+ org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+ org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+ org.testng.TestNG.run(TestNG.java:1048)
+ org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+ org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+ org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)]
+2020-05-03 12:43:39 INFO  ************* After Method....Inside After Method
+2020-05-03 12:43:39 INFO  *************  After Class....This method will run after every class
+2020-05-03 12:43:39 INFO  *************  After Test....This method will run after every testngxml test
+2020-05-03 12:43:39 INFO  ************* ************* This method will be executed at the end **************
+2020-05-03 12:45:14 INFO  ************* ************* This method will be executed in the begining**************
+2020-05-03 12:45:14 INFO  *************  Inisde the storeLocatorData Method
+2020-05-03 12:45:15 INFO  *************  Inisde the storeTestData Method
+2020-05-03 12:45:15 INFO  *************  Beore Test....This method will run before every testngxml test
+2020-05-03 12:45:15 INFO  *************  Beore Class....This method will run before every class
+2020-05-03 12:45:15 INFO  ************* Before Method....Inside before Method
+2020-05-03 12:45:30 INFO  *************  The test case by name login_001 is getting executed....
+2020-05-03 12:45:30 INFO  ************* Got all the test data for login...now trying to login
+2020-05-03 12:45:34 INFO  ************* Got all the test data for login...now trying to login
+2020-05-03 12:45:41 INFO  ************* Got all the test data for login...now trying to login
+2020-05-03 12:45:49 INFO  ************* Got all the test data for login...now trying to login
+2020-05-03 12:46:46 INFO  *************  The test case by name login_001 is Failed
+2020-05-03 12:46:50 ERROR ************* [sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+ sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+ sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+ java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+ org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+ org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+ org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+ org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+ org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+ org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+ org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+ org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+ org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+ org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+ com.selenium.utils.Commonutils.loginToActitime(Commonutils.java:15)
+ com.selenium.tests.Login.login_001(Login.java:54)
+ sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+ sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+ java.lang.reflect.Method.invoke(Method.java:498)
+ org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+ org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+ org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+ org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+ org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+ org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+ org.testng.TestRunner.privateRun(TestRunner.java:774)
+ org.testng.TestRunner.run(TestRunner.java:624)
+ org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+ org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+ org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+ org.testng.SuiteRunner.run(SuiteRunner.java:261)
+ org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+ org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+ org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+ org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+ org.testng.TestNG.run(TestNG.java:1048)
+ org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+ org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+ org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)]
+2020-05-03 12:46:50 INFO  ************* After Method....Inside After Method
+2020-05-03 12:47:08 INFO  *************  After Class....This method will run after every class
+2020-05-03 12:47:08 INFO  *************  After Test....This method will run after every testngxml test
+2020-05-03 12:47:08 INFO  ************* ************* This method will be executed at the end **************
+2020-05-09 11:20:10 INFO  *************  Beore Test....This method will run before every testngxml test
+2020-05-09 11:20:10 INFO  ************* Before Method....Inside before Method
+2020-05-09 11:20:10 INFO  ************* After Method....Inside After Method
+2020-05-09 11:21:38 INFO  *************  Beore Test....This method will run before every testngxml test
+2020-05-09 11:21:38 INFO  *************  Beore Class....This method will run before every class
+2020-05-09 11:21:38 INFO  ************* Before Method....Inside before Method
+2020-05-09 11:21:53 INFO  ************* After Method....Inside After Method
+2020-05-09 11:21:53 INFO  *************  After Class....This method will run after every class
+2020-05-09 11:21:53 INFO  *************  After Test....This method will run after every testngxml test
+2020-05-09 11:35:36 INFO  *************  Beore Test....This method will run before every testngxml test
+2020-05-09 11:35:36 INFO  *************  Beore Class....This method will run before every class
+2020-05-09 11:35:36 INFO  ************* Before Method....Inside before Method
+2020-05-09 11:35:54 INFO  ************* After Method....Inside After Method
+2020-05-09 11:35:55 INFO  *************  After Class....This method will run after every class
+2020-05-09 11:35:55 INFO  *************  After Test....This method will run after every testngxml test
+2020-05-09 11:48:17 INFO  ************* ************* This method will be executed in the begining**************
+2020-05-09 11:48:17 INFO  *************  Inisde the storeLocatorData Method
+2020-05-09 11:48:19 INFO  *************  Inisde the storeTestData Method
+2020-05-09 11:48:19 INFO  *************  Beore Test....This method will run before every testngxml test
+2020-05-09 11:48:19 INFO  *************  Beore Class....This method will run before every class
+2020-05-09 11:48:19 INFO  ************* Before Method....Inside before Method
+2020-05-09 11:48:32 INFO  *************  The test case by name login_001 is getting executed....
+2020-05-09 11:48:37 INFO  *************  The test case by name login_001 is Passed
+2020-05-09 11:48:37 INFO  ************* After Method....Inside After Method
+2020-05-09 11:48:38 INFO  ************* Before Method....Inside before Method
+2020-05-09 11:48:52 INFO  *************  The test case by name login_002 is getting executed....
+2020-05-09 11:48:53 INFO  *************  The test case by name login_002 is Passed
+2020-05-09 11:48:53 INFO  ************* After Method....Inside After Method
+2020-05-09 11:48:54 INFO  *************  After Class....This method will run after every class
+2020-05-09 11:48:54 INFO  *************  After Test....This method will run after every testngxml test
+2020-05-09 11:48:54 INFO  ************* ************* This method will be executed at the end **************
+2020-05-09 11:59:36 INFO  ************* ************* This method will be executed in the begining**************
+2020-05-09 11:59:36 INFO  *************  Inisde the storeLocatorData Method
+2020-05-09 11:59:38 INFO  *************  Inisde the storeTestData Method
+2020-05-09 11:59:38 INFO  *************  Beore Test....This method will run before every testngxml test
+2020-05-09 11:59:38 INFO  *************  Beore Class....This method will run before every class
+2020-05-09 11:59:38 INFO  ************* Before Method....Inside before Method
+2020-05-09 11:59:53 INFO  *************  The test case by name login_001 is getting executed....
+2020-05-09 11:59:53 INFO  *************  The test case by name login_001 is Failed
+2020-05-09 11:59:56 ERROR ************* [org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+ org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+ com.sun.proxy.$Proxy13.click(Unknown Source)
+ com.selenium.pages.HomePage.clickLogoutLink(HomePage.java:34)
+ com.selenium.tests.LoginTest.login_001(LoginTest.java:27)
+ sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+ sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+ java.lang.reflect.Method.invoke(Method.java:498)
+ org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+ org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+ org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+ org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+ org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+ org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+ org.testng.TestRunner.privateRun(TestRunner.java:774)
+ org.testng.TestRunner.run(TestRunner.java:624)
+ org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+ org.testng.SuiteRunner.runSequentially(SuiteRunner.java:354)
+ org.testng.SuiteRunner.privateRun(SuiteRunner.java:312)
+ org.testng.SuiteRunner.run(SuiteRunner.java:261)
+ org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+ org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+ org.testng.TestNG.runSuitesSequentially(TestNG.java:1215)
+ org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+ org.testng.TestNG.run(TestNG.java:1048)
+ org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+ org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+ org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)]
+2020-05-09 11:59:56 INFO  ************* After Method....Inside After Method
+2020-05-09 11:59:57 INFO  ************* Before Method....Inside before Method
+2020-05-09 12:00:08 INFO  *************  The test case by name login_002 is getting executed....
+2020-05-09 12:00:10 INFO  *************  The test case by name login_002 is Passed
+2020-05-09 12:00:10 INFO  ************* After Method....Inside After Method
+2020-05-09 12:00:10 INFO  *************  After Class....This method will run after every class
+2020-05-09 12:00:10 INFO  *************  After Test....This method will run after every testngxml test
+2020-05-09 12:00:10 INFO  ************* ************* This method will be executed at the end **************
+2020-05-09 12:01:44 INFO  ************* ************* This method will be executed in the begining**************
+2020-05-09 12:01:44 INFO  *************  Inisde the storeLocatorData Method
+2020-05-09 12:01:45 INFO  *************  Inisde the storeTestData Method
+2020-05-09 12:01:45 INFO  *************  Beore Test....This method will run before every testngxml test
+2020-05-09 12:01:45 INFO  *************  Beore Class....This method will run before every class
+2020-05-09 12:01:45 INFO  ************* Before Method....Inside before Method
+2020-05-09 12:02:02 INFO  *************  The test case by name login_001 is getting executed....
+2020-05-09 12:02:07 INFO  *************  The test case by name login_001 is Passed
+2020-05-09 12:02:07 INFO  ************* After Method....Inside After Method
+2020-05-09 12:02:08 INFO  ************* Before Method....Inside before Method
+2020-05-09 12:02:20 INFO  *************  The test case by name login_002 is getting executed....
+2020-05-09 12:02:21 INFO  *************  The test case by name login_002 is Passed
+2020-05-09 12:02:21 INFO  ************* After Method....Inside After Method
+2020-05-09 12:02:22 INFO  *************  After Class....This method will run after every class
+2020-05-09 12:02:22 INFO  *************  After Test....This method will run after every testngxml test
+2020-05-09 12:02:22 INFO  ************* ************* This method will be executed at the end **************

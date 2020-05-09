@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SmokeSuite]">
+  <listeners>
+    <listener class-name="com.selenium.base.BaseClass"/>
+  </listeners>
+  <test name="ActiTimeSmoke(failed)">
+    <classes>
+      <class name="com.selenium.tests.LoginTest">
+        <methods>
+          <include name="login_001"/>
+          <include name="afterClass"/>
+          <include name="closeBrowser"/>
+          <include name="launchActitime"/>
+          <include name="beforetest"/>
+          <include name="beforeClass"/>
+          <include name="aftertest"/>
+        </methods>
+      </class> <!-- com.selenium.tests.LoginTest -->
+    </classes>
+  </test> <!-- ActiTimeSmoke(failed) -->
+</suite> <!-- Failed suite [SmokeSuite] -->

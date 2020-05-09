@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SmokeSuite" duration-ms="38199" started-at="2020-05-09T06:31:43Z" finished-at="2020-05-09T06:32:22Z">
+    <groups>
+    </groups>
+    <test name="ActiTimeSmoke" duration-ms="38199" started-at="2020-05-09T06:31:43Z" finished-at="2020-05-09T06:32:22Z">
+      <class name="com.selenium.tests.LoginTest">
+        <test-method status="PASS" signature="beforetest()[pri:0, instance:com.selenium.tests.LoginTest@7d907bac]" name="beforetest" is-config="true" duration-ms="21" started-at="2020-05-09T12:01:45Z" finished-at="2020-05-09T12:01:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.selenium.tests.LoginTest@7d907bac]" name="beforeClass" is-config="true" duration-ms="0" started-at="2020-05-09T12:01:45Z" finished-at="2020-05-09T12:01:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="launchActitime()[pri:0, instance:com.selenium.tests.LoginTest@7d907bac]" name="launchActitime" is-config="true" duration-ms="15072" started-at="2020-05-09T12:01:45Z" finished-at="2020-05-09T12:02:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchActitime -->
+        <test-method status="PASS" signature="login_001()[pri:0, instance:com.selenium.tests.LoginTest@7d907bac]" name="login_001" duration-ms="7001" started-at="2020-05-09T12:02:00Z" finished-at="2020-05-09T12:02:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_001 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.selenium.tests.LoginTest@7d907bac]" name="closeBrowser" is-config="true" duration-ms="850" started-at="2020-05-09T12:02:07Z" finished-at="2020-05-09T12:02:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launchActitime()[pri:0, instance:com.selenium.tests.LoginTest@7d907bac]" name="launchActitime" is-config="true" duration-ms="11174" started-at="2020-05-09T12:02:08Z" finished-at="2020-05-09T12:02:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchActitime -->
+        <test-method status="PASS" signature="login_002()[pri:0, instance:com.selenium.tests.LoginTest@7d907bac]" name="login_002" duration-ms="1631" started-at="2020-05-09T12:02:19Z" finished-at="2020-05-09T12:02:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_002 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.selenium.tests.LoginTest@7d907bac]" name="closeBrowser" is-config="true" duration-ms="545" started-at="2020-05-09T12:02:21Z" finished-at="2020-05-09T12:02:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.selenium.tests.LoginTest@7d907bac]" name="afterClass" is-config="true" duration-ms="1" started-at="2020-05-09T12:02:22Z" finished-at="2020-05-09T12:02:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="aftertest()[pri:0, instance:com.selenium.tests.LoginTest@7d907bac]" name="aftertest" is-config="true" duration-ms="1" started-at="2020-05-09T12:02:22Z" finished-at="2020-05-09T12:02:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- com.selenium.tests.LoginTest -->
+    </test> <!-- ActiTimeSmoke -->
+  </suite> <!-- SmokeSuite -->
+</testng-results>
